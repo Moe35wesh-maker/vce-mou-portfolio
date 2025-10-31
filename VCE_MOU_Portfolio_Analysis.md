@@ -4,7 +4,7 @@ Comprehensive strategic analysis of Victory Child Empowerment's international pa
 
 ## 🌐 View the Analysis
 
-**Live Website:** [Click here to view the full analysis](https://[your-username].github.io/vce-mou-portfolio-analysis/)
+**Live Website:** [Click here to view the full analysis](https://moe35wesh-maker.github.io/vce-mou-portfolio-analysis/)
 
 *(Replace `[your-username]` with your actual GitHub username)*
 
