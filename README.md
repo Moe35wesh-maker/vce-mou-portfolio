@@ -327,7 +327,7 @@ We welcome input from program management professionals and organizational develo
 
 ### Analysis Reports
 
-- **[Full Analysis Report](docs/01-Full-Analysis.md)** - 35-page comprehensive assessment
+- **[Full Analysis Report]([docs/01-Full-Analysis.md](https://moe35wesh-maker.github.io/-vce-mou-portfolio-analysis/))** - 35-page comprehensive assessment
 - **[Executive Dashboard](docs/02-Executive-Dashboard.md)** - 8-page leadership brief
 - **[Implementation Tracker](docs/03-Implementation-Tracker.xlsx)** - Excel workbook
 
